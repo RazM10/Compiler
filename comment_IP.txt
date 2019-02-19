@@ -1,0 +1,6 @@
+int main()
+{
+int a , b ; /* int comment ; */
+a = 578 ;
+b = 6 ;
+}
